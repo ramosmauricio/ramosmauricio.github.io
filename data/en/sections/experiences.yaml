@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Kueski
+    url: "https://www.kueski.com"
+    location: Remote
+    # company overview
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Software Engineer
+    start: Jan 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+- company:
+    name: Solera (Omnitracs)
+    url: "https://www.omnitracs.com"
+    location: Remote
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer
+    start: Sep 2020
+    end: Jan 2022
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
