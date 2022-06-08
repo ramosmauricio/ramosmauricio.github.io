@@ -1,0 +1,18 @@
+# some information about you
+name: "Mauricio Ramos Leal"
+nickname: "Mauro"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+#image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ramosleal.m@gmail.com"
+  phone: "+52 5579601560"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Devops
+  - I love Linux
+  - I am a FOSS Enthusiast
+  - I love to work with some fun projects
