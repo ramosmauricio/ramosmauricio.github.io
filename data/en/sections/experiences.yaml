@@ -15,7 +15,7 @@ experiences:
     url: "https://www.kueski.com"
     location: Remote
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Kueski is a leading company in the financial field in México. It focuses on personal loans.
   positions:
   - designation: Software Engineer
     start: Jan 2022
@@ -23,20 +23,80 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and develop single page apps APIs and workers for interconnect the company's systems
 
 - company:
     name: Solera (Omnitracs)
     url: "https://www.omnitracs.com"
     location: Remote
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Omnitracs is a widely recognized company in the transportation sector. It builts High performance tools for transportation and logistics.
   positions:
   - designation: Software Engineer
     start: Sep 2020
     end: Jan 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Design and develop new API's to decouple existing monoliths
+    - Migration of existing systems to newer frameworks
+
+- company:
+    name: Mobiik Consulting
+    url: "https://www.mobiik.com/"
+    location: CDMX
+    overview: IT consulting services company focused on Software Development, Data & AI and Cloud Services. 
+  positions:
+  - designation: Senior Software Engineer
+    start: Dec 2019
+    end: Aug 2020
+    responsibilities:
+    - Analyze, Design and develop new client's requirements
+    - Productive support to a BOT solution
+
+- company:
+    name: Cecoban
+    url: "https://www.cecoban.com/"
+    location: CDMX
+    overview: Cecoban is a company that develops baking solutions 
+  positions:
+  - designation: Software Engineer
+    start: Feb 2018
+    end: Dec 2019
+    responsibilities:
+    - Analyze, Design and develop new client's requirements
+    - Lead and participate on the company's invoice management system
+
+- company:
+    name: Iisi Consulting
+    url: "https://iisi.com.mx/"
+    location: CDMX
+    overview: Iisi is a consulting company focused on develop IT solutions
+  positions:
+  - designation: Software Engineer
+    start: Mar 2017
+    end: Feb 2018
+    responsibilities:
+    - Contributed in the development of a fleet management system for Renault México
+    - Participate in the company systems maintenance.
+
+- company:
+    name: Grupo Diniz
+    url: "http://www.grupodiniz.com.mx/"
+    location: CDMX
+    overview: Diniz is a company especialized on entertainment, like videogames, simulators and sports games.
+  positions:
+  - designation: Developer
+    start: Nov 2016
+    end: Feb 2017
+    responsibilities:
+    - Maintenance and improvements to company's applications.
+
+- company:
+    name: Dhd
+    url: "http://dhd.mx/"
+    location: Acapulco, Gro. México
+    overview: Software Development Company
+  positions:
+  - designation: Developer
+    start: Feb 2014
+    end: Oct 2016
+    responsibilities:
+    - Design and develop desktop and web applications

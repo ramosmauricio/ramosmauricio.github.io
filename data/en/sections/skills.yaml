@@ -11,16 +11,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: .NET Platform
+  logo: "/images/sections/skills/net.png"
+  summary: "Proficient using the .NET platform to build tools like SPA, APIs, workers, etc. using C# coding language"
+  url: "https://dotnet.microsoft.com/en-us/"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as AWS and Azure"
 
 - name: Go Development
   logo: "/images/sections/skills/go.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs"
+
+- name: Database Design and development
+  logo: "/images/sections/skills/databases.png"
+  summary: "Capable of design databases from scratch, proficient working with SQL databases like SQL Server, Postgres and Mysql"
+
+- name: FrontEnd development
+  logo: "/images/sections/skills/reactjs.png"
+  summary: "Worked with frontend frameworks like reactjs and Jquery library "
