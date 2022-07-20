@@ -25,10 +25,6 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs"
-
 - name: Database Design and development
   logo: "/images/sections/skills/databases.png"
   summary: "Capable of design databases from scratch, proficient working with SQL databases like SQL Server, Postgres and Mysql"
