@@ -18,11 +18,11 @@ skills:
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as AWS and Azure"
+  summary: "Worked with most of the major clouds providers such as AWS and Azure"
 
 - name: Go Development
   logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable programs."
   url: "https://golang.org/"
 
 - name: Database Design and development
