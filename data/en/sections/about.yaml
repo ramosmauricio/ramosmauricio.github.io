@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 7+ years of working experience. I built tools, systems and websites mainly using .NET, but also Go or Ruby for the backend and i have experience using react for the frontend'
+summary: 'I am a passionate software engineer with 7+ years of working experience. I've built tools, systems and websites mainly using .NET, but also Go or Ruby for the backend and i have experience using react for the frontend'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
